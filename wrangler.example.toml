@@ -1,0 +1,9 @@
+#:schema node_modules/wrangler/config-schema.json
+name = "cf-downloader"
+main = "src/index.ts"
+compatibility_date = "2024-07-29"
+compatibility_flags = ["nodejs_compat"]
+
+[env.production.vars]
+# 使用 openssl rand -hex 5 生成一个字符串
+key = "30e641a0cd"
