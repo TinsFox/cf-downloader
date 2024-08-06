@@ -2,7 +2,7 @@
 
 ## 📖 项目简介
 
-cf downloader 是一个强大而灵活的文件代理工具,运行在 Cloudflare Workers 平台上。它允许用户安全地代理和下载文件,而无需直接暴露原始文件URL。
+cf downloader 是一个强大而灵活的文件下载工具,运行在 Cloudflare Workers 平台上。
 
 > [!IMPORTANT]
 > 请不要滥用，以免 CF 被封禁至完全不能访问
