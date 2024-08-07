@@ -26,6 +26,8 @@ cf downloader 是一个强大而灵活的文件下载工具,运行在 Cloudflare
 
 	 - POST 请求: 发送一个包含 `key` 和 `fileUrl` 字段的表单数据
 
+	 - 使用谷歌扩展提供的页面，[传送门](https://github.com/TinsFox/cf-downloader-extension)
+
 6. 静待文件下载。Worker将验证您的密钥,然后代理请求的文件
 
 ## 🤝 贡献
